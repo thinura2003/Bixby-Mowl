@@ -2,14 +2,14 @@
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?font=Hey+printing&color=5D0F99&size=32&lines=WELCOME+TO+BIXBY+MOWL;WHATSAPP+BOT+MADE+BY;ZIYAN+AND+MIDU-SER+AND+;POWERED+BY+ALIEN-ALFA"
+            src="https://readme-typing-svg.herokuapp.com?font=Hey+printing&color=5D0F99&size=32&lines=WELCOME+TO+BLACK+;WHATSAPP+BOT+MADE+BY;ZIYAN+AND+MIDU-SER+AND+;POWERED+BY+DIWAN"
             alt="Typing SVG"
         />
     </a>
 </p>
 
 <div align="center">
-<img src="https://telegra.ph/file/cbea859ed4228792132fe.jpg" alt="JPG" width="500" height="500"/>
+<img src="https://www.linkpicture.com/q/9cb070d62dc738a0c3a1a408d68e4af5.jpg" alt="JPG" width="500" height="500"/>
 </p>
 
 <div align="center">

@@ -105,9 +105,9 @@
         },
         "heroku": {
             "RESTART_DESC": " Bixby නැවත පන ගැන්වීම",
-            "RESTART_MSG": "*Bixby Mowl Restarting*",
+            "RESTART_MSG": "*Queen Bixby Restarting*",
             "SHUTDOWN_DESC": "Shutdown Bixby Mowl",
-            "SHUTDOWN_MSG": "*Ok Bye I Am Sleeping Now* 💤\n\n*Shuting Down* ⚠️",
+            "SHUTDOWN_MSG": "*Ok Bye මම නිදි යාලුවනෙ* 💤\n\nපස්සෙ හම්බෙමු. 🚢",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -184,7 +184,7 @@
             "PPING": "```Setting profile photo...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
-            "BLOCKED": "blocked",
+            "BLOCKED": "*අවහිර  කරන ලදි* 🐉",
             "UNBLOCKED": "unblocked",
             "BLOCKED_UPPER": "Blocked!",
             "UNBLOCKED_UPPER": "Unblocked.",
@@ -233,7 +233,7 @@
             "LOADING": "*ඔබගේ විඩියෝව ලබාගනිමින්*",
             "YT_DESC": "YouTube මගින් Video Link ලබා දේ..",
             "NEED_WORDS": "කරුනාකර වචන කිරිපයක් ලියන්න",
-            "GETTING_VIDEOS": "ඔබේ විඩියෝව ලබානිමින්",
+            "GETTING_VIDEOS": "*ඔබේ විඩියෝ ලබානිමින්*... 📎",
             "NOT_FOUND": "*කිසිවක් සොයාගත නොහැකි විය  :(*",
             "SEARCHING": " 🔎 සොයමින් ...",
             "WIKI_DESC": "Wikipedia හි තොරතුරු සෙවීම",
@@ -272,7 +272,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*Updated ✅️*",
             "UPDATED_LOCAL": "✅  *File Attached!*",
-            "AFTER_UPDATE": "*Bot Updated* 🥰\n\n*Bot Restarting*  ✅ *Please wait One Minute for use bot*  ✅️",
+            "AFTER_UPDATE": "*Loke Files Saved* 🥰\n\nBot Restarting  ✅ Please wait One Minute for use bot  ✅️",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
